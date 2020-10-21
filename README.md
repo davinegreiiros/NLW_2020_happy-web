@@ -15,6 +15,3 @@ O projeto desenvolvido foi uma aplicação chamada Happy. O ojetivo do Happy é 
 [<img src='https://github.com/machadinhacega/nlw_2020_discovery/blob/main/files/assets/resultado.png' height='110'>](https://davinegreiiros.github.io/NLW_2020_happy-web/)
 
 
-Template criado por:
-<b>Iza Machado
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/machadinhacega)
